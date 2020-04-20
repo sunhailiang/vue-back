@@ -1,15 +1,15 @@
 let http = require('http')
 let users = [
   {
-    id: 0000,
+    id: 00,
     name: '海亮'
   },
   {
-    id: 0001,
+    id: 01,
     name: '虚竹'
   },
   {
-    id: 0002,
+    id: 02,
     name: '乔峰'
   }
 ]
